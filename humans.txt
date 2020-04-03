@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Sevgi B
 
 # TECHNOLOGY COLOPHON
 
